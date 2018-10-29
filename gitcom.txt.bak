@@ -23,12 +23,10 @@
    22  echo "line 1" >1.java
    23  dir
    24  clear
-   25  git add . 
-		--TO ADD A FILE
+   25  git add .
    26  git status
    27  git commit
    28  git commit -m "first checkin"
-	--SAVE TO REPO
    29  git status
    30  dir
    31  echo "line 2" >>1.java
@@ -44,7 +42,6 @@
    41  cd workspace00
    42  git log
    43  git push
-	--PUSH TO CENTAL REPOS
    44  git log
    45  git show -c9763f40d9f38bf8a03ea11afb9d6f8caf4074a2
    46  git show
