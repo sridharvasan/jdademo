@@ -1,0 +1,61 @@
+ history
+    1  dir
+    2  git
+    3  git config -list
+    4  git config --list
+    5  git --config
+    6  git config --global user.name "sridharvasan"
+    7  git config --global user.emal "sridharvasan@gmail.com"
+    8  git config --global push.default "simple"
+    9  git -version
+   10  git --version
+   11  history
+   12  git config --list
+   13  dir
+   14  cd c:
+   15  cd C:\sridhar\gitdemo\workspace00
+   16  pwd
+   17  cd sridhar
+   18  pwd
+   19  cd gitdemo
+   20  cd workspace00
+   21  pwd
+   22  echo "line 1" >1.java
+   23  dir
+   24  clear
+   25  git add .
+   26  git status
+   27  git commit
+   28  git commit -m "first checkin"
+   29  git status
+   30  dir
+   31  echo "line 2" >>1.java
+   32  git status
+   33  echo "line 2" >>2.java
+   34  git status
+   35  git add .
+   36  git status
+   37  git commit -m "demo add"
+   38  dir
+   39  cd ..
+   40  ls -rtl
+   41  cd workspace00
+   42  git log
+   43  git push
+   44  git log
+   45  git show -c9763f40d9f38bf8a03ea11afb9d6f8caf4074a2
+   46  git show
+   47  git log 1.java
+   48  echo "line 2" >>3.java
+   49  commit
+   50  git commit
+   51  add .
+   52  git add .
+   53  git commit
+   54   git commit -m "demo add1"
+   55  git push
+   56  git status
+   57  git status
+   58  git pull
+   59  dir
+   60  history
